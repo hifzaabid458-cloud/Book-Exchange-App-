@@ -64,9 +64,13 @@ The application uses local image assets for the default books.
 Book covers are stored inside:
 
 assets/
+
 ├── atomic_habits.jpeg
+
 ├── clean_code.jpeg
+
 ├── introduction_to_algorithms.jpeg
+
 └── the_alchemist.jpeg
 
 ## 🚀 How to Run
@@ -101,14 +105,22 @@ flutter run
 ## 📂 Project Structure
 
 lib/
+
 ├── models/
+
 ├── screens/
+
 ├── services/
+
 ├── theme/
+
 ├── widgets/
+
 └── main.dart
 
+
 assets/
+
 └── book images
 
 ## 🎯 Project Purpose
